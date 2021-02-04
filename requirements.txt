@@ -1,0 +1,5 @@
+Django
+Pillow
+crispy-forms-gds
+pylint-django
+social-auth-app-django

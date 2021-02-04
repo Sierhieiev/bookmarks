@@ -1,0 +1,4 @@
+users:
+testUser1 - mup6dwJPqdHhhuqY - testUser1@mail.com
+testUser2 - SG48XLgXbYD2ADcg
+testUser3 - LMeY3DdUyYDAxdz2 - testUser3@mail.com
